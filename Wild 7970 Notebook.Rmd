@@ -2,7 +2,7 @@
 title: Swartout Tools 7979"
 output: html_notebook
 ---
-#8/30/23
+# 8/30/23
 
 Week 1: AI Discussion 
 
@@ -10,6 +10,10 @@ Originally I was going to produce a paragraph created by ChatGPT to see what it 
 
 I feel like this introduction paragraph is a good stepping stone on my thoughts on this software. It does terrify me and it honestly hurts my head thinking about this topic with all its scenarios and repercussions. However, like we discussed in class I do think it has pros; for example, I want to write code on calculating the 95% CIs of a glmer, this software may be able to help me answer than question. Regardless this comes down to morals in my opinion, will scientist use this to write paper (very likely), will I use it to write papers (morally I don't feel good doing that). This class really started out with a bang when it comes to topics.
 
+<span style="color:red">I agree with you. The morality bit is the thing that keeps catching me up. I used AI to help with a proposal recently, and it honestly felt a bit dirty. But if only those with strong morals are not using AI, are we going to effectively self-select ourselves out of the population of scientists because those without morals are publishing circles around us by harnessing AI? It's... confusing. - Jonathon</span>
+
 Week 2 Discussion:
 
-The topic of today's class is a pretty hard hitting conversation that needs to be talked about but may also result in people feeling uncomfortable. I myself did not verbally provide any input or thoughts during the class because in this situation I found most appropriate to listen and consider others concerns since these issues are still a major problem in all universities Globally! The class time provided some very interesting discussion topics that I am fairly unexposed to. For example, I have no exposure to diversity statements, I have never had to write one, however, gaining familiarity with these statements and writing a genuine one for future jobs is something I must consider, because its all to true that many diversity statements are likely just a script someone took offline. Very interesting discussion today.
+The topic of today's class is a pretty hard hitting conversation that needs to be talked about but may also result in people feeling uncomfortable. I myself did not verbally provide any input or thoughts during the class because in this situation I found most appropriate to listen and consider others concerns since these issues are still a major problem in all universities Globally! The class time provided some very interesting discussion topics that I am fairly unexposed to. For example, I have no exposure to diversity statements, I have never had to write one, however, gaining familiarity with these statements and writing a genuine one for future jobs is something I must consider, because its all too true that many diversity statements are likely just a script someone took offline. Very interesting discussion today.
+
+<span style="color:red">I couldn't agree more (although I have a hard time keeping my mouth shut). We'll be talking about preparing for the job market later this semester, so this topic of writing a diversity statement will come up again. - Jonathon</span>
