@@ -1,30 +1,23 @@
 ---
-title: "Swartout Tools 7979"
-output:
-  html_document:
-    df_print: paged
+title: Swartout Tools 7979"
+output: html_notebook
 ---
+#8/30/23
 
-# 8/30/23
-
-### Week 1: AI Discussion 
-
-<mark> Add ### before the header, in this case ### Week 1: AI Discussion. Ani
+###Week 1: AI Discussion 
 
 Originally I was going to produce a paragraph created by ChatGPT to see what it would formulate on the controversy of AI. However, the program requires you to login and possibly allow access to your information which at the moment makes me uncomfortable. I will delve on it more in the near future if I want to look into it more.
 
 I feel like this introduction paragraph is a good stepping stone on my thoughts on this software. It does terrify me and it honestly hurts my head thinking about this topic with all its scenarios and repercussions. However, like we discussed in class I do think it has pros; for example, I want to write code on calculating the 95% CIs of a glmer, this software may be able to help me answer than question. Regardless this comes down to morals in my opinion, will scientist use this to write paper (very likely), will I use it to write papers (morally I don't feel good doing that). This class really started out with a bang when it comes to topics.
 
-<span style="color:red">I agree with you. The morality bit is the thing that keeps catching me up. I used AI to help with a proposal recently, and it honestly felt a bit dirty. But if only those with strong morals are not using AI, are we going to effectively self-select ourselves out of the population of scientists because those without morals are publishing circles around us by harnessing AI? It's... confusing. - Jonathon</span>
+---
 
-<mark> Use --- to separate your weekly reports. Ani
+###Week 2 Discussion:
+
+The topic of today's class is a pretty hard hitting conversation that needs to be talked about but may also result in people feeling uncomfortable. I myself did not verbally provide any input or thoughts during the class because in this situation I found most appropriate to listen and consider others concerns since these issues are still a major problem in all universities Globally! The class time provided some very interesting discussion topics that I am fairly unexposed to. For example, I have no exposure to diversity statements, I have never had to write one, however, gaining familiarity with these statements and writing a genuine one for future jobs is something I must consider, because its all to true that many diversity statements are likely just a script someone took offline. Very interesting discussion today.
 
 ---
 
-Week 2 Discussion:
+###Week 3 Discussion:
 
-The topic of today's class is a pretty hard hitting conversation that needs to be talked about but may also result in people feeling uncomfortable. I myself did not verbally provide any input or thoughts during the class because in this situation I found most appropriate to listen and consider others concerns since these issues are still a major problem in all universities Globally! The class time provided some very interesting discussion topics that I am fairly unexposed to. For example, I have no exposure to diversity statements, I have never had to write one, however, gaining familiarity with these statements and writing a genuine one for future jobs is something I must consider, because its all too true that many diversity statements are likely just a script someone took offline. Very interesting discussion today.
-
-<span style="color:red">I couldn't agree more (although I have a hard time keeping my mouth shut). We'll be talking about preparing for the job market later this semester, so this topic of writing a diversity statement will come up again. - Jonathon</span>
-
----
+The topic this week is a tough one for me because it is an issue but some solutions are also tough for me to agree with for all situations. To begin, it drives me absolutely nuts when I am reading a paper hoping that it will explain a statistical technique for me and then the authors provide hardly any info that I deem useful. While in this case I am not trying to reproduce their direct data I am trying to gain a better understanding of how their techniques may assist me in my experiments that may be of a similar premise. As a result, I try to be concise with my methods and presenting that info in the manuscript. Now regarding making my data open to the public is another can of worms that worries me about data theft especially since our lab works primarily on longitudinal data sets. Its a constant internal battle for me in this realm of scientific controversy.
