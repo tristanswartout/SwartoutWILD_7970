@@ -1,10 +1,15 @@
 ---
-title: Swartout Tools 7979"
-output: html_notebook
+title: "Swartout Tools 7979"
+output:
+  html_document:
+    df_print: paged
 ---
+
 # 8/30/23
 
-Week 1: AI Discussion 
+### Week 1: AI Discussion 
+
+<mark> Add ### before the header, in this case ### Week 1: AI Discussion. Ani
 
 Originally I was going to produce a paragraph created by ChatGPT to see what it would formulate on the controversy of AI. However, the program requires you to login and possibly allow access to your information which at the moment makes me uncomfortable. I will delve on it more in the near future if I want to look into it more.
 
@@ -12,8 +17,14 @@ I feel like this introduction paragraph is a good stepping stone on my thoughts 
 
 <span style="color:red">I agree with you. The morality bit is the thing that keeps catching me up. I used AI to help with a proposal recently, and it honestly felt a bit dirty. But if only those with strong morals are not using AI, are we going to effectively self-select ourselves out of the population of scientists because those without morals are publishing circles around us by harnessing AI? It's... confusing. - Jonathon</span>
 
+<mark> Use --- to separate your weekly reports. Ani
+
+---
+
 Week 2 Discussion:
 
 The topic of today's class is a pretty hard hitting conversation that needs to be talked about but may also result in people feeling uncomfortable. I myself did not verbally provide any input or thoughts during the class because in this situation I found most appropriate to listen and consider others concerns since these issues are still a major problem in all universities Globally! The class time provided some very interesting discussion topics that I am fairly unexposed to. For example, I have no exposure to diversity statements, I have never had to write one, however, gaining familiarity with these statements and writing a genuine one for future jobs is something I must consider, because its all too true that many diversity statements are likely just a script someone took offline. Very interesting discussion today.
 
 <span style="color:red">I couldn't agree more (although I have a hard time keeping my mouth shut). We'll be talking about preparing for the job market later this semester, so this topic of writing a diversity statement will come up again. - Jonathon</span>
+
+---
