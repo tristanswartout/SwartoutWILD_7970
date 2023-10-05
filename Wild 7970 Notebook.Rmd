@@ -1,5 +1,5 @@
 ---
-title: "Swartout Tools 7979"
+title: Swartout Tools 7979"
 output: html_notebook
 ---
 #8/30/23
@@ -22,17 +22,11 @@ The topic of today's class is a pretty hard hitting conversation that needs to b
 
 The topic this week is a tough one for me because it is an issue but some solutions are also tough for me to agree with for all situations. To begin, it drives me absolutely nuts when I am reading a paper hoping that it will explain a statistical technique for me and then the authors provide hardly any info that I deem useful. While in this case I am not trying to reproduce their direct data I am trying to gain a better understanding of how their techniques may assist me in my experiments that may be of a similar premise. As a result, I try to be concise with my methods and presenting that info in the manuscript. Now regarding making my data open to the public is another can of worms that worries me about data theft especially since our lab works primarily on longitudinal data sets. Its a constant internal battle for me in this realm of scientific controversy.
 
-<span style="color:red">Nothing wrong with that. We don't always need solutions but it's important for us to think through some of these controversial issues so we know where we stand (and understand where others stand as well).  - Jonathon</span>
-
-
 ---
 
 ###Week 4 Discussion:
 
 While I was the presenter for this paper and had to heavily delve into it to ensure I had an adequate presentation, my biggest takeaway was: "how does this occur in the wildlife biology field of science. The more I thought, the more ideas came to mind ranging from Spotted Owl habitat destruction, species status and listing of Gray Wolves, and CWD in white-tailed deer. But as we discussed in class, how do we handle it? We mentioned teaching stakeholders, however, this can only go so far because people will always strive to follow a certain mindset which makes it difficult to suede people in the first place. I don't know if there really is a solution to this problem. Maybe a third party arbitrator essentially to monitor studies ethics; but that would be quite a task at hand. Our class could talk about this topic for days. 
-
-<span style="color:red">So true. And honestly, I don't know that there are "solutions" to many of the things we're talking about in class, but it's good for us all to think about these challenges so they don't catch us by surprise in the future.  - Jonathon</span>
-
 
 --- 
 
@@ -40,5 +34,6 @@ While I was the presenter for this paper and had to heavily delve into it to ens
 
 Today was my favorite topic thus far to discuss. I think largely I found it enjoyable because I myself use citizen science apps (ebird and iNaturalist primarily) and enjoy using them while also contributing data. I do think these apps have benefits for some forms of science, however, there are limitations to everything. The debate of is it worth collecting 'crappy data' is completely situational, if you are going to force people to collect this data through a citizen science program and the data is still crappy then no it may not be justified. However, if you are already having people out observing stuff for fun and just happen to submit data, then it is justified there are not cons for any party. We still have a long way to go but citizen science has a time and place and I still hope my ebird checklist contribute some form of science. 
 
-<span style="color:red">I fear my "crappy data" comment is going to haunt me! But yes, your eBird checklists are being used and being used by lots of folks to answer important questions. I just think it's always worth considering the limitations of new tools and technologies. - Jonathon</span>
+###Week 6 Discussion:
 
+Today in class we learned how to use the shiny app in R. I have no background with this app and it was a good skill to learn. I'm hoping in the future I could create a legitimate shiny app while working for my research position wherever it may be. I have really enjoyed this class so far and I think us talking about the tough topics is important while we also have been gaining skills in utilizing current programs like github, rmarkdown, and shiny. 
