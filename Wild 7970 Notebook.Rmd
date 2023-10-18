@@ -41,3 +41,7 @@ Today in class we learned how to use the shiny app in R. I have no background wi
 ###Week 7 Discussion: 
 
 Today's topic was a fun discussion and may I say a bit of a 'debate'. My stance on it is as long as you have a form of objectives and state what you predict may happen then you have informally made a hypothesis and can test it. I think the formal stance of directly stating a hypothesis is strange and plenty of good papers have been published where a hypothesis has still been clearly developed but maybe not formally addressed properly in the manuscript (properly is based off what ever a specific person's view may be); as a result its very situational here with how a hypothesis can be defined and how it needs to properly be stated. 
+
+###Week 8 Discussion:
+
+This discussion today made me realize there isn't a good answer on predatory journals.It is especially concerning that predatory publishing companies are buying journals. What if you publish in a journal prior to it being bought by a predatory publisher; is future viewings of your own publication going to be scoffed at? It sounds like some of these companies are the 'Walmart' of the publishing world; a conglomerate of cheap and sometimes poor items.
