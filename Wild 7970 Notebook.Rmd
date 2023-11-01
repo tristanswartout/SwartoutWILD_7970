@@ -1,13 +1,10 @@
 ---
-title: "Swartout Tools 7979"
-output:
-  html_document:
-    df_print: paged
+title: Swartout Tools 7979"
+output: html_notebook
 ---
+#8/30/23
 
-# 8/30/23
-
-### Week 1: AI Discussion 
+###Week 1: AI Discussion 
 
 Originally I was going to produce a paragraph created by ChatGPT to see what it would formulate on the controversy of AI. However, the program requires you to login and possibly allow access to your information which at the moment makes me uncomfortable. I will delve on it more in the near future if I want to look into it more.
 
@@ -15,46 +12,45 @@ I feel like this introduction paragraph is a good stepping stone on my thoughts 
 
 ---
 
-### Week 2 Discussion:
+###Week 2 Discussion:
 
 The topic of today's class is a pretty hard hitting conversation that needs to be talked about but may also result in people feeling uncomfortable. I myself did not verbally provide any input or thoughts during the class because in this situation I found most appropriate to listen and consider others concerns since these issues are still a major problem in all universities Globally! The class time provided some very interesting discussion topics that I am fairly unexposed to. For example, I have no exposure to diversity statements, I have never had to write one, however, gaining familiarity with these statements and writing a genuine one for future jobs is something I must consider, because its all to true that many diversity statements are likely just a script someone took offline. Very interesting discussion today.
 
 ---
 
-### Week 3 Discussion:
+###Week 3 Discussion:
 
 The topic this week is a tough one for me because it is an issue but some solutions are also tough for me to agree with for all situations. To begin, it drives me absolutely nuts when I am reading a paper hoping that it will explain a statistical technique for me and then the authors provide hardly any info that I deem useful. While in this case I am not trying to reproduce their direct data I am trying to gain a better understanding of how their techniques may assist me in my experiments that may be of a similar premise. As a result, I try to be concise with my methods and presenting that info in the manuscript. Now regarding making my data open to the public is another can of worms that worries me about data theft especially since our lab works primarily on longitudinal data sets. Its a constant internal battle for me in this realm of scientific controversy.
 
 ---
 
-### Week 4 Discussion:
+###Week 4 Discussion:
 
 While I was the presenter for this paper and had to heavily delve into it to ensure I had an adequate presentation, my biggest takeaway was: "how does this occur in the wildlife biology field of science. The more I thought, the more ideas came to mind ranging from Spotted Owl habitat destruction, species status and listing of Gray Wolves, and CWD in white-tailed deer. But as we discussed in class, how do we handle it? We mentioned teaching stakeholders, however, this can only go so far because people will always strive to follow a certain mindset which makes it difficult to suede people in the first place. I don't know if there really is a solution to this problem. Maybe a third party arbitrator essentially to monitor studies ethics; but that would be quite a task at hand. Our class could talk about this topic for days. 
 
 --- 
 
-### Week 5 Discussion:
+###Week 5 Discussion:
 
 Today was my favorite topic thus far to discuss. I think largely I found it enjoyable because I myself use citizen science apps (ebird and iNaturalist primarily) and enjoy using them while also contributing data. I do think these apps have benefits for some forms of science, however, there are limitations to everything. The debate of is it worth collecting 'crappy data' is completely situational, if you are going to force people to collect this data through a citizen science program and the data is still crappy then no it may not be justified. However, if you are already having people out observing stuff for fun and just happen to submit data, then it is justified there are not cons for any party. We still have a long way to go but citizen science has a time and place and I still hope my ebird checklist contribute some form of science. 
 
-### Week 6 Discussion:
+###Week 6 Discussion:
 
 Today in class we learned how to use the shiny app in R. I have no background with this app and it was a good skill to learn. I'm hoping in the future I could create a legitimate shiny app while working for my research position wherever it may be. I have really enjoyed this class so far and I think us talking about the tough topics is important while we also have been gaining skills in utilizing current programs like github, rmarkdown, and shiny. 
 
-### Week 7 Discussion: 
+###Week 7 Discussion: 
 
 Today's topic was a fun discussion and may I say a bit of a 'debate'. My stance on it is as long as you have a form of objectives and state what you predict may happen then you have informally made a hypothesis and can test it. I think the formal stance of directly stating a hypothesis is strange and plenty of good papers have been published where a hypothesis has still been clearly developed but maybe not formally addressed properly in the manuscript (properly is based off what ever a specific person's view may be); as a result its very situational here with how a hypothesis can be defined and how it needs to properly be stated. 
 
-<span style="color:red">Everyone is wrong about hypotheses except me!!!  - Jonathon</span>
-
-### Week 8 Discussion:
+###Week 8 Discussion:
 
 This discussion today made me realize there isn't a good answer on predatory journals.It is especially concerning that predatory publishing companies are buying journals. What if you publish in a journal prior to it being bought by a predatory publisher; is future viewings of your own publication going to be scoffed at? It sounds like some of these companies are the 'Walmart' of the publishing world; a conglomerate of cheap and sometimes poor items.
 
-<span style="color:red">Wow, good point. I hadn't thought about that problem with predatory companies buying legit journals.  - Jonathon</span>
-
-### Week 9 Discussion:
+###Week 9 Discussion:
 
 As said in class this discussion was more of a lecture, however, I am fine with this because I'm not very familiar with this topic. I had never heard of pre-registration prior to this class and I am glad I got a lot of expert input provided to me about it. Based off class discussion though I will likely not submit a pre-registration because to me in sounds like it's still a flawed system. For example us talking about the issue or pre and post reviewers being different may cause some major setbacks. It has the potential to very beneficial but as it stands right now it has many issues that must be addressed first before I would consider doing one myself. 
 
-<span style="color:red">Haha, perhaps it was a flawed plan to bring in someone with lots of experience with this system. Or perhaps it was the heavy dose of reality we needed.  - Jonathon</span>
+###Week 10 Discussion:
+
+Another very interesting topic that we all need to think more about in today's world. I personally think the review process should be completely anonymous where the reviewers don't know and you don't know. Do I sometimes get frustrated when I receive a harsh review for a manuscript and I wish I knew the name of the reviewer to look up their credibility; yes I do. And I consider myself a pretty level-headed person, have full transparency in my opinion would cause a lot of bad apples to be caught for their flaws but also make many people appear bad also when it's not really justified. Anonymous helps allieviete bias while also avoiding potential conflict. 
+
